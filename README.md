@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 pip install -r requirements.txt
 ```
-2) Download [CityScapes](https://www.cityscapes-dataset.com/) into datasets directory
+2) Download [ImageNet](https://image-net.org/) into datasets directory
 
 The directory structure should be as follows:
 ```
