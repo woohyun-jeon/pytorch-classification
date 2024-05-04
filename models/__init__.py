@@ -5,5 +5,6 @@ from .squeezenet import *
 from .resnet import *
 from .preact_resnet import *
 from .wide_resnet import *
+from .se_resnet import *
 from .cbam_resnet import *
 from .residual_attention_network import *
