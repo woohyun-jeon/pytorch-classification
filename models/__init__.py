@@ -7,4 +7,5 @@ from .preact_resnet import *
 from .wide_resnet import *
 from .se_resnet import *
 from .cbam_resnet import *
+from .densenet import *
 from .residual_attention_network import *
