@@ -59,20 +59,22 @@ The directory structure should be as follows:
 - [x] Inception v1
 - [x] VGGNet
 - [x] ResNet
-- [ ] Inception v2,3
-- [x] ResNext
+- [x] Inception v2,3
+- [x] Pre-Activation ResNet
+- [ ] ResNext
 - [x] DenseNet
 - [ ] Inception v4
 - [ ] SqueezeNet
-- [ ] WRN
+- [x] Wide Residual Networks
 - [x] Xception
-- [ ] DPN
+- [x] Dual Path Networks
 - [ ] MobileNet v1
-- [ ] RAN
+- [x] Residual Attention Network
 - [ ] ShuffleNet
-- [ ] SENet
+- [x] SE-ResNet
+- [x] CBAM-ResNet
 - [ ] MobileNet v2
 - [ ] EfficientNet
-- [ ] ViT
-- [ ] CvT
+- [ ] Vision Transformer
+- [ ] Convolutional vision Transformer
 - [ ] Swin Transformer
