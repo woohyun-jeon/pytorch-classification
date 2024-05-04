@@ -8,4 +8,5 @@ from .wide_resnet import *
 from .se_resnet import *
 from .cbam_resnet import *
 from .densenet import *
+from .dual_path_network import *
 from .residual_attention_network import *
