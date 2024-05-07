@@ -3,16 +3,17 @@
 This repository contains the implementation of image classification models in PyTorch.
 
 ## Prerequisites
-Install the required dependencies with the following command:
-```
-pip install -r requirements.txt
-```
+* python >= 3.6
+* torch >= 1.8.1
+* torchvision >= 0.9.1
 
 
 ## Usage
-1) Install the required dependencies with the following command:
+1) Clone the repository and install the required dependencies with the following command:
 ```
-pip install -r requirements.txt
+$ git clone https://github.com/woohyun-jeon/pytorch-classification.git
+$ cd pytorch-classification
+$ pip install -r requirements.txt
 ```
 2) Download [ImageNet](https://image-net.org/) into datasets directory
 
@@ -64,9 +65,9 @@ The directory structure should be as follows:
 - [ ] ResNext
 - [x] DenseNet
 - [ ] Inception v4
-- [ ] SqueezeNet
+- [x] SqueezeNet
 - [x] Wide Residual Networks
-- [x] Xception
+- [ ] Xception
 - [x] Dual Path Networks
 - [ ] MobileNet v1
 - [x] Residual Attention Network
