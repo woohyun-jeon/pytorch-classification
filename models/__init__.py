@@ -12,3 +12,5 @@ from .dual_path_network import *
 from .residual_attention_network import *
 from .shufflenet_v1 import *
 from .shufflenet_v2 import *
+from .efficientnet import *
+from .mnasnet import *

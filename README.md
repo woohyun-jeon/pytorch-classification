@@ -70,12 +70,14 @@ The directory structure should be as follows:
 - [ ] Xception
 - [x] Dual Path Networks
 - [ ] MobileNet v1
+- [ ] MobileNet v2
 - [x] Residual Attention Network
-- [ ] ShuffleNet
+- [x] MnasNet
+- [x] ShuffleNet v1
+- [x] ShuffleNet v2
 - [x] SE-ResNet
 - [x] CBAM-ResNet
-- [ ] MobileNet v2
-- [ ] EfficientNet
+- [x] EfficientNet
 - [ ] Vision Transformer
 - [ ] Convolutional vision Transformer
 - [ ] Swin Transformer
