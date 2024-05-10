@@ -78,6 +78,6 @@ The directory structure should be as follows:
 - [x] SE-ResNet
 - [x] CBAM-ResNet
 - [x] EfficientNet
-- [ ] Vision Transformer
+- [x] Vision Transformer
 - [ ] Convolutional vision Transformer
 - [ ] Swin Transformer
