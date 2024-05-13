@@ -15,3 +15,4 @@ from .shufflenet_v2 import *
 from .efficientnet import *
 from .mnasnet import *
 from .vision_transformer import *
+from .swin_transformer import *
