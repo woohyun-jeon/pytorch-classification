@@ -62,15 +62,15 @@ The directory structure should be as follows:
 - [x] ResNet
 - [x] Inception v2,3
 - [x] Pre-Activation ResNet
-- [ ] ResNext
+- [x] ResNext
 - [x] DenseNet
-- [ ] Inception v4
+- [x] Inception v4
 - [x] SqueezeNet
 - [x] Wide Residual Networks
-- [ ] Xception
+- [x] Xception
 - [x] Dual Path Networks
-- [ ] MobileNet v1
-- [ ] MobileNet v2
+- [x] MobileNet v1
+- [x] MobileNet v2
 - [x] Residual Attention Network
 - [x] MnasNet
 - [x] ShuffleNet v1
